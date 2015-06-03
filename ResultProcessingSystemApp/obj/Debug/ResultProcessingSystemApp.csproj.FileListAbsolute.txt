@@ -1,0 +1,9 @@
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\bin\Debug\ResultProcessingSystemApp.exe.config
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\bin\Debug\ResultProcessingSystemApp.exe
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\bin\Debug\ResultProcessingSystemApp.pdb
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\obj\Debug\ResultProcessingSystemApp.csprojResolveAssemblyReference.cache
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\obj\Debug\ResultProcessingSystemApp.Form1.resources
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\obj\Debug\ResultProcessingSystemApp.Properties.Resources.resources
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\obj\Debug\ResultProcessingSystemApp.csproj.GenerateResource.Cache
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\obj\Debug\ResultProcessingSystemApp.exe
+G:\lab\ResultProcessingSystemApp\ResultProcessingSystemApp\obj\Debug\ResultProcessingSystemApp.pdb
